@@ -27,3 +27,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+
+<hr> 
+<b></b>Projects</b> : Index Construction, Equity Research Report, Leveraged Buyout (LBO) Model, M&A Transaction Analysis, DCF Valuation and Comparable Company Analysis, tock Pitch and Investment Thesis, IPO Valuation and Comparable Analysis, FX Exposure and Hedging Analysis
