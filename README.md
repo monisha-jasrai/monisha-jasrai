@@ -13,13 +13,13 @@
 <p align="center">
   Financial Statement Analysis · Financial Modelling · DCF Valuation · Corporate Finance · Equity Research · M&A Analysis
 </p>
-
+<hr>
 <p align="center"><b>ＱＵＡＮＴＩＴＡＴＩＶＥ ＡＮＡＬＹＴＩＣＳ</b></p>
 
 <p align="center">
   Python · Pandas · NumPy · Index Construction · Backtesting · Portfolio Analytics · Risk Analysis
 </p>
-
+<hr>
 <p align="center"><b>ＴＯＯＬＳ ＆ ＴＥＣＨＮＯＬＯＧＩＥＳ</b></p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
