@@ -20,11 +20,6 @@
   Python · Pandas · NumPy · Index Construction · Backtesting · Portfolio Analytics · Risk Analysis
 </p>
 <hr>
-<p align="center"><b>ＴＯＯＬＳ ＆ ＴＥＣＨＮＯＬＯＧＩＥＳ</b></p>
-
-<p align="center">
-  Excel · SQL · Git · GitHub · Jupyter Notebook
-</p>
 
 
 
