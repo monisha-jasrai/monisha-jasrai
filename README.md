@@ -31,3 +31,25 @@
 
 <hr> 
 <b>Projects</b> : Index Construction, Equity Research Report, Leveraged Buyout (LBO) Model, M&A Transaction Analysis, DCF Valuation and Comparable Company Analysis, Stock Pitch and Investment Thesis, IPO Valuation and Comparable Analysis, FX Exposure and Hedging Analysis
+
+<hr>
+
+<table>
+  <tr>
+    <td width="100" valign="top">
+      <strong>ＰＲＯＪＥＣＴＳ</strong>
+    </td>
+    <td width="1" bgcolor="#52616B"></td>
+    <td valign="top">
+      <sub>
+        Index Construction · Equity Research Report ·
+        LBO Model · M&A Transaction Analysis ·
+        DCF Valuation & Comparable Company Analysis ·
+        Stock Pitch & Investment Thesis ·
+        IPO Valuation · FX Exposure & Hedging Analysis
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<hr>
