@@ -12,7 +12,7 @@
 
 <p align="center">
   Financial Statement Analysis · Financial Modelling · DCF Valuation · Corporate Finance  <br>
-  Equity Research · M&A Analysis· Index Construction · Backtesting · Portfolio Analytics 
+  Equity Research · M&A Analysis · Index Construction · Backtesting · Portfolio Analytics 
 </p>
 <hr>
 
