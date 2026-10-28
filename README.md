@@ -40,11 +40,7 @@
     <td width="1" bgcolor="#52616B"></td>
     <td valign="top">
       <sub>
-        Index Construction · Equity Research Report ·
-        LBO Model · M&A Transaction Analysis ·
-        DCF Valuation & Comparable Company Analysis ·
-        Stock Pitch & Investment Thesis ·
-        IPO Valuation · FX Exposure & Hedging Analysis
+        Index Construction, Equity Research Report, LBO Model, M&A Transaction Analysis, DCF Valuation & Comparable Company Analysis, Stock Pitch & Investment Thesis, IPO Valuation, FX Exposure & Hedging Analysis
       </sub>
     </td>
   </tr>
