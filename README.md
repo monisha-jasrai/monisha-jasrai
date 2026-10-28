@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Twitter Header.jpeg" alt="Monisha Jasrai — M&A, Corporate Finance and Equity Research" width="100%" />
+  <img src="Twitter header.jpeg" alt="Monisha Jasrai — M&A, Corporate Finance and Equity Research" width="100%" />
 </p>
 
 
