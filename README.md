@@ -47,3 +47,25 @@
 </table>
 
 <hr>
+
+<hr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="100" valign="middle" style="border: none;">
+      <strong>ＰＲＯＪＥＣＴＳ</strong>
+    </td>
+    <td width="1" bgcolor="#52616B" style="border: none;"></td>
+    <td valign="middle" style="border: none;">
+      <sub>
+        Index Construction · Equity Research Report · LBO Model ·
+        M&A Transaction Analysis · DCF Valuation & Comparable Company Analysis ·
+        Stock Pitch & Investment Thesis · IPO Valuation ·
+        FX Exposure & Hedging Analysis
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
