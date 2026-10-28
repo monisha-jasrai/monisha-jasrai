@@ -11,15 +11,10 @@
 <p align="center"><b>ＦＩＮＡＮＣＥ ＆ ＶＡＬＵＡＴＩＯＮ</b></p>
 
 <p align="center">
-  Financial Statement Analysis · Financial Modelling · DCF Valuation · Corporate Finance · Equity Research · M&A Analysis
+  Financial Statement Analysis · Financial Modelling · DCF Valuation · Corporate Finance · Equity Research · M&A Analysis· Index Construction · Backtesting · Portfolio Analytics ·
 </p>
 <hr>
-<p align="center"><b>ＱＵＡＮＴＩＴＡＴＩＶＥ ＡＮＡＬＹＴＩＣＳ</b></p>
 
-<p align="center">
-  Python · Pandas · NumPy · Index Construction · Backtesting · Portfolio Analytics · Risk Analysis
-</p>
-<hr>
 
 
 
