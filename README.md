@@ -6,18 +6,7 @@
 
 
 
-<h3 align="center">ＴＯＯＬＳ ＆ ＴＥＣＨＮＯＬＯＧＩＥＳ</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-
-<h3 align="center">ＳＫＩＬＬＳ ＆ ＴＥＣＨ ＳＴＡＣＫ</h3>
 
 <p align="center"><b>ＦＩＮＡＮＣＥ ＆ ＶＡＬＵＡＴＩＯＮ</b></p>
 
